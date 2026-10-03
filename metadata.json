@@ -1,0 +1,11 @@
+{
+  "name": "Mark LV Holographic AI Assistant & System OS",
+  "description": "Next-generation multimodal Jarvis HUD with real-time 3D holographic avatar, viseme lip-sync, computer control telemetry, vision processor, and Gemini Live AI integration.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
